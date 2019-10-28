@@ -1,0 +1,277 @@
+{
+  "rows": [
+    [
+      {
+        "key": "Backquote",
+        "text": "`",
+        "size": 0.5
+      },
+      {
+        "key": "Digit1",
+        "text": "1",
+        "size": 1
+      },
+      {
+        "key": "Digit2",
+        "text": "2",
+        "size": 1
+      },
+      {
+        "key": "Digit3",
+        "text": "3",
+        "size": 1
+      },
+      {
+        "key": "Digit4",
+        "text": "4",
+        "size": 1
+      },
+      {
+        "key": "Digit5",
+        "text": "5",
+        "size": 1
+      },
+      {
+        "key": "Digit6",
+        "text": "6",
+        "size": 1
+      },
+      {
+        "key": "Digit7",
+        "text": "7",
+        "size": 1
+      },
+      {
+        "key": "Digit8",
+        "text": "8",
+        "size": 1
+      },
+      {
+        "key": "Digit9",
+        "text": "9",
+        "size": 1
+      },
+      {
+        "key": "Digit0",
+        "text": "0",
+        "size": 1
+      },
+      {
+        "key": "Minus",
+        "text": "-",
+        "size": 1
+      },
+      {
+        "key": "Equal",
+        "text": "+",
+        "size": 1
+      },
+      {
+        "key": "Backspace",
+        "text": "Backspace",
+        "size": 2.3
+      }
+    ],
+    [
+      {
+        "key": "Tab",
+        "text": "Tab",
+        "size": 1.25
+      },
+      {
+        "key": "KeyQ",
+        "text": "Q",
+        "size": 1
+      },
+      {
+        "key": "KeyW",
+        "text": "W",
+        "size": 1
+      },
+      {
+        "key": "KeyE",
+        "text": "E",
+        "size": 1
+      },
+      {
+        "key": "KeyR",
+        "text": "R",
+        "size": 1
+      },
+      {
+        "key": "KeyT",
+        "text": "T",
+        "size": 1
+      },
+      {
+        "key": "KeyY",
+        "text": "Y",
+        "size": 1
+      },
+      {
+        "key": "KeyU",
+        "text": "U",
+        "size": 1
+      },
+      {
+        "key": "KeyI",
+        "text": "I",
+        "size": 1
+      },
+      {
+        "key": "KeyO",
+        "text": "O",
+        "size": 1
+      },
+      {
+        "key": "KeyP",
+        "text": "P",
+        "size": 1
+      },
+      {
+        "key": "BracketLeft",
+        "text": "[",
+        "size": 1
+      },
+      {
+        "key": "BracketRight",
+        "text": "]",
+        "size": 1
+      },
+      {
+        "key": "Backslash",
+        "text": "\\",
+        "size": 1.25
+      }
+    ],
+    [
+      {
+        "key": "CapsLock",
+        "text": "Caps",
+        "size": 1.7
+      },
+      {
+        "key": "KeyA",
+        "text": "A",
+        "size": 1
+      },
+      {
+        "key": "KeyS",
+        "text": "S",
+        "size": 1
+      },
+      {
+        "key": "KeyD",
+        "text": "D",
+        "size": 1
+      },
+      {
+        "key": "KeyF",
+        "text": "F",
+        "size": 1
+      },
+      {
+        "key": "KeyG",
+        "text": "G",
+        "size": 1
+      },
+      {
+        "key": "KeyH",
+        "text": "H",
+        "size": 1
+      },
+      {
+        "key": "KeyJ",
+        "text": "J",
+        "size": 1
+      },
+      {
+        "key": "KeyK",
+        "text": "K",
+        "size": 1
+      },
+      {
+        "key": "KeyL",
+        "text": "L",
+        "size": 1
+      },
+      {
+        "key": "Semicolon",
+        "text": ";",
+        "size": 1
+      },
+      {
+        "key": "Quote",
+        "text": "'",
+        "size": 1
+      },
+      {
+        "key": "Enter",
+        "text": "Enter",
+        "size": 2.5
+      }
+    ],
+    [
+      {
+        "key": "ShiftLeft",
+        "text": "Shift",
+        "size": 2.4
+      },
+      {
+        "key": "KeyZ",
+        "text": "Z",
+        "size": 1
+      },
+      {
+        "key": "KeyX",
+        "text": "X",
+        "size": 1
+      },
+      {
+        "key": "KeyC",
+        "text": "C",
+        "size": 1
+      },
+      {
+        "key": "KeyV",
+        "text": "V",
+        "size": 1
+      },
+      {
+        "key": "KeyB",
+        "text": "B",
+        "size": 1
+      },
+      {
+        "key": "KeyN",
+        "text": "N",
+        "size": 1
+      },
+      {
+        "key": "KeyM",
+        "text": "M",
+        "size": 1
+      },
+      {
+        "key": "Comma",
+        "text": ",",
+        "size": 1
+      },
+      {
+        "key": "Period",
+        "text": ".",
+        "size": 1
+      },
+      {
+        "key": "Slash",
+        "text": "/",
+        "size": 1
+      },
+      {
+        "key": "ShiftRight",
+        "text": "Shift",
+        "size": 3.2
+      }
+    ]
+  ]
+}

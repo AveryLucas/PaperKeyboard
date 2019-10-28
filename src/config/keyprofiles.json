@@ -1,0 +1,42 @@
+[
+  {
+    "key": "KeyA",
+    "instrument": {
+      "type": "PLAYER",
+      "options": {
+        "audio": "./Kick Orange  (3).wav",
+        "volume": 0
+      }
+    }
+  },
+  {
+    "key": "KeyS",
+    "instrument": {
+      "type": "PLAYER",
+      "options": {
+        "audio": "./Kick Orange  (1).wav",
+        "volume": 0
+      }
+    }
+  },
+  {
+    "key": "KeyD",
+    "instrument": {
+      "type": "PLAYER",
+      "options": {
+        "audio": "./Snare Orange  (1).wav",
+        "volume": 0
+      }
+    }
+  },
+  {
+    "key": "KeyF",
+    "instrument": {
+      "type": "PLAYER",
+      "options": {
+        "audio": "./Hi Hat Orange (6).wav",
+        "volume": 0
+      }
+    }
+  }
+]
