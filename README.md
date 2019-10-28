@@ -1,16 +1,14 @@
-#### Portfolio WIP
+#### Paper Keyboard
+
 
 **To add**
 
-* Contact form
-* Cat controls
-  * +1 for smoke effects
-* Image preview of project sites
-
+* Firefox not supported warning.
+* Fetch sound effects from amazon s3
+* Loop recorder bind.
 
 
 **Change Log**
 
 * 0.0.1
   * First commit
-  
